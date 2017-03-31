@@ -1,6 +1,6 @@
 {
   "name": "args-parse",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Parse arguments for CLI Apps",
   "files": [
     "index.js"
